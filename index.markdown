@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+### Hey! 👋
+My name is Om Agrawal, and I am studying CS at UT Austin. 
+- coursework: Computer Architecture | Data Structures | Discrete Mathematics | Python Programming
