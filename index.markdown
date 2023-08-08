@@ -5,18 +5,14 @@
 layout: home
 ---
 
-<style>
-  .centered-image {
-    display: block;
-    margin: 0 auto;
-    max-width: 80%;
-  }
-</style>
-
-<div style="text-align: center;">
-  <img src=".\_site\assets\ompicsquare.jpg" alt="Om Agrawal" class="centered-image">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-bottom: 20dp">
+  <img src="/images/ompicsquare.jpg" alt="Om Image" style="max-width: 70%; border-radius: 50%;" class="centered-image circle-image">
 </div>
 
-Hey! 👋 My name is Om Agrawal, and I am studying CS at UT Austin. 
+<center>
 
-I enjoy drumming, puzzles, and building things.
+Hey! 👋 My name is Om Agrawal, and I am studying CS at UT Austin.
+
+</center>
+  
+
