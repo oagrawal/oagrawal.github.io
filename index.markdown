@@ -11,7 +11,8 @@ layout: home
 
 <center>
 
-Hey! 👋 My name is Om Agrawal, and I am studying CS at UT Austin.
+Hey! 👋 My name is Om Agrawal,
+and I am studying CS at UT Austin.
 
 </center>
   
