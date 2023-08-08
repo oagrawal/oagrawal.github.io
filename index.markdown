@@ -5,5 +5,18 @@
 layout: home
 ---
 
+<style>
+  .centered-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+  }
+</style>
+
+<div style="text-align: center;">
+  <img src=".\_site\assets\ompicsquare.jpg" alt="Om Agrawal" class="centered-image">
+</div>
+
 Hey! 👋 My name is Om Agrawal, and I am studying CS at UT Austin. 
-coursework: Computer Architecture | Data Structures | Discrete Mathematics | Python Programming
+
+I enjoy drumming, puzzles, and building things.
