@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-bottom: 20dp">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin-bottom: 20px">
   <img src="/images/ompicsquare.jpg" alt="Om Image" style="max-width: 70%; border-radius: 50%;" class="centered-image circle-image">
 </div>
 
