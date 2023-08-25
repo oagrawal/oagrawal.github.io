@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-**Full Stack Lip Reader**: Created Neural Network which could read lips. The model achieved over 97.5% validation accuracy, and included Convolutional layers, stacked LSTMs, Dense layers, Dropout, and Time Distributed Layers. 
+[**Full Stack Lip Reader**](https://github.com/oagrawal/Lip_Reader/tree/main): Created Neural Network which could read lips. The model achieved over 97.5% validation accuracy, and included Convolutional layers, stacked LSTMs, Dense layers, Dropout, and Time Distributed Layers. 
 `Environment: Python, TensorFlow, Streamlit, Jupyter`
 
 <div style="margin-top: 30px;"></div>
@@ -27,7 +27,7 @@ permalink: /projects/
 <div style="margin-top: 30px;"></div>
 
 
-**Facial Recognition**: Created a tool that allows users control over the image database used to train a facial recognition model. By customizing the training photos, users can explore how the model responds to specific images and fine-tune its behavior. 
+[**Facial Recognition**](https://github.com/oagrawal/Facial_Recognition/tree/main): Created a tool that allows users control over the image database used to train a facial recognition model. By customizing the training photos, users can explore how the model responds to specific images and fine-tune its behavior. 
 `Environment: Python, TKinter, OpenCV, Visual Studio Code`
 
 <div style="margin-top: 30px;"></div>
