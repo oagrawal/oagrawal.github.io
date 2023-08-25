@@ -15,7 +15,7 @@ UT Computer Science Department
 **STEM Internship**  
 Federal Aviation Administration | Office of Senior Technical Experts Program  
 *June 2023 – December 2023*
-- Created visualizations to analyze anomalous GPS spoofing / interference events
+- Created machine learning models and visualizations to analyze anomalous GPS spoofing / interference events
 - Utilized various data sources, including official and commercial ADS-B Out data
 - Employed commercial ML visualization tools to derive insights for anomalous events
 
