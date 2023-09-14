@@ -22,11 +22,11 @@ title: Om Agrawal
 email: omagrawal@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
     Hey, my name is Om, and I'm a student at UT Austin majoring in Computer 
-    Science. Feel free to reach out at omagrawal@utexas.edu!
+    Science. Feel free to reach out at omagrawal@utexas.edu or (214)-418-3769!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oxa5120.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oagrawal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  oxa5120
+github_username:  oagrawal
 
 # Build settings
 theme: minima
