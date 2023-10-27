@@ -4,7 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-[**Full Stack Lip Reader**](https://github.com/oagrawal/Lip_Reader/tree/main): Created Neural Network which could read lips. The model achieved over 97.5% validation accuracy, and included Convolutional layers, stacked LSTMs, Dense layers, Dropout, and Time Distributed Layers. 
+**GymShot**: Engineered a full-stack social media site centered around a community of “GymShots”, optimized for iOS, Android, and Web platforms. Developed a Backend-as-a-Service (BaaS) architecture with Firebase, implementing secure authentication, real-time database storage, and seamless cloud integration to ensure data privacy and personalized user experiences.
+`Environment: Flutter, Firebase, Dart`
+
+<div style="margin-top: 30px;"></div>
+
+**PintOS**: Strengthened support for PintOS, an OS framework for the 80x86 architecture. Optimized kernel thread scheduling with priority inheritance and aging techniques, enhancing responsiveness. Strengthened user program management with system calls and process control blocks, ensuring efficient resource allocation. Extended file system capabilities, adding support for directories, file operations, and implemented a demand-paging virtual
+memory system with eviction policies for efficient memory management.
+`Environment: Objective C, UNIX, ARM assembly, 80x86`
+
+<div style="margin-top: 30px;"></div>
+
+
+# Machine Learning Projects
+---------------------------------------------------------------------------------
+
+<div style="margin-top: 30px;"></div>
+
+
+[**Full Stack Lip Reader**](https://github.com/oagrawal/Lip_Reader/tree/main): Developed a full-stack web application showcasing a deep convolutional neural network for visual speech recognition,
+inspired by Oxford University’s LipNet model. Model achieved over 97.5% validation accuracy, optimized CTC loss using advanced data augmentation techniques with transfer learning and learning rate schedulers, and tweaking complexity of the model with Convolutional, stacked bidirectional LSTMs, Dropout, and Time Distributed Layers. 
 `Environment: Python, TensorFlow, Streamlit, Jupyter`
 
 <div style="margin-top: 30px;"></div>
@@ -32,6 +51,10 @@ permalink: /projects/
 
 <div style="margin-top: 30px;"></div>
 
-**MISCELLANEOUS**													
-Authored AP Physics Textbook: Created and published Advanced Placement Physics textbook on Amazon. 
+# MISCELLANEOUS
+---------------------------------------------------------------------------------
+
+<div style="margin-top: 30px;"></div>
+
+[**AP Physics 1 Mechanics Crash Course**](https://www.amazon.com/dp/B08GB25JTC): Authored AP Physics Textbook: Created and published Advanced Placement Physics textbook on Amazon. 
 `https://www.amazon.com/dp/B08GB25JTC`
