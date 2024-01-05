@@ -2,7 +2,7 @@
 layout: page
 title: Hades House
 permalink: /drumming/Hades_House
-published: false
+published: true
 ---
 
 My goal in creating Hades House was to characterize Hades, the God of the

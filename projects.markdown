@@ -15,6 +15,10 @@ memory system with eviction policies for efficient memory management.
 
 <div style="margin-top: 30px;"></div>
 
+**Huffman Coding**: Created a lossless file compression and decompression tool by converting data into frequency-based codes using a Huffman code tree, decompressing files of any type. Based on Dr. David A. Huffman's lossless data compression algorithm from "A Method for the Construction of Minimum Redundancy Codes".
+`Environment: Java`
+
+<div style="margin-top: 30px;"></div>
 
 # Machine Learning Projects
 ---------------------------------------------------------------------------------
