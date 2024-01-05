@@ -2,7 +2,7 @@
 layout: page
 # title: Drumming
 permalink: /extra/drumming
-published: false
+published: true
 ---
 
 # **Drumming**
