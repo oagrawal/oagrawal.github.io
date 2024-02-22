@@ -19,19 +19,11 @@ and I am studying CS at UT Austin. Feel free to reach out!
 <div style="margin-top: 40px;"></div>
 
   
-**Technical Skills**  
-
-- Languages: 
-`Objective C, C++, Java, Python, HTML, CSS, JavaScript, TypeScript, ARM Assembly, Ruby, SQL`  
-
-- Frameworks: 
-`ReactJS, NodeJS, AngularJS, Flask, Flutter, Firebase, Docker, Kubernetes, AWS S3, Linux, Android Studio, Bootstrap, Jekyll, Git`  
-
-
-
-- ML libraries: 
-`TensorFlow, Keras, NumPy, Pandas, SciKit-Learn`   
-
+**Skills**  
+- Languages: `Java, Python, C, C++, JavaScript, HTML, CSS, ARM`
+- Frameworks: `React.js, Node.js, Angular.js, Flutter, Firebase, Bootstrap, Jekyll`
+- Libraries: `TensorFlow, Keras, NumPy, Pandas, SciKit-Learn, OpenCV`
+- Tools: `Git, Linux, UNIX, AWS`
 
 
 - Certifications: 
