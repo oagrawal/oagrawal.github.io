@@ -22,3 +22,9 @@ UT Computer Science Department
 *August 2023 – April 2024*
 - Selected as one of 12 students department-wide to be a Teaching Assistant for C S 311: Discrete Math
 - Ran discussion sessions and study sessions, graded homework, quizzes, and exams 
+
+**Percussion Instructor**   
+Coppell High School Drumline
+*August 2022*
+- Helped develop rudimentals of drumming for Coppell JV bassline and snare line
+- Drumline went on to win best in class in Lone Star Classic, Texas’s biggest drumline contest.
